@@ -70,6 +70,7 @@
 ## 高级语言程序设计课程
 
 - [casim](https://github.com/JuniMay/casim)
+- [NodeGraphic](https://github.com/SynodicMonth/NodeGraphic)
 
 ## 其他有关资源
 
